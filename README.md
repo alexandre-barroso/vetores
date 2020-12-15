@@ -3,4 +3,6 @@ Projeto de PIBIC (2018) (não concluído por razões médicas, infelizmente). Ve
 
 Utiliza a versatilidade do algoritmo de aprendizagem de máquina Word2Vec para mapear fones a vetores, e não palavras. Se palavras mantém relações semânticas nesse modelo de algoritmo, é possivel estabelecer relações fonéticas?
 
+O script formata corpora para serem usados de maneira comparativa, usa o algoritmo Word2Vec para mapear cada fone a um vetor de 100 dimensões, reduz a quantidade de dimensões para 2 ou 3 por meio da análise de componentes principais (PCA) e gera um gráfico.
+
 Demonstração do funcionamento: https://youtu.be/sKQi3t46JIk
