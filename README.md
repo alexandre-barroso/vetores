@@ -6,3 +6,5 @@ Utiliza a versatilidade do algoritmo de aprendizagem de máquina Word2Vec para m
 O script formata corpora para serem usados de maneira comparativa, usa o algoritmo Word2Vec para mapear cada fone a um vetor de 100 dimensões, reduz a quantidade de dimensões para 2 ou 3 por meio da análise de componentes principais (PCA) e gera um gráfico.
 
 Demonstração do funcionamento: https://youtu.be/sKQi3t46JIk
+
+![exemplo](https://github.com/alexandre-barroso/vetorizador_fonetico/blob/master/exemplo.gif)
