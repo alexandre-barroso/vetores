@@ -7,4 +7,4 @@ O script formata corpora para serem usados de maneira comparativa, usa o algorit
 
 Demonstração do funcionamento: https://youtu.be/sKQi3t46JIk
 
-![exemplo](https://github.com/alexandre-barroso/vetorizador_fonetico/blob/master/exemplo.gif)
+![exemplo](https://github.com/alexandre-barroso/vetorizador_fonetico/blob/master/exemplo_opt.gif)
